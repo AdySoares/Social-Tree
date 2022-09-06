@@ -1,0 +1,1 @@
+Nesse projeto eu estarei desenvolvendo uma espece de beacons com os meus conhecimentos HTML e CSS;
