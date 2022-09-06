@@ -85,6 +85,7 @@ nav span a{
 
 div footer{
  
+    margin-top: 50gitpx;
     display: flex;
     justify-content: center;
     gap: 29px;
